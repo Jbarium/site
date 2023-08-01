@@ -11,7 +11,7 @@
 .logo {
   float: right; /* To position the logo on the top right */
   margin: 20px;
-  position:relative;
+  position:sticky;
 }
 .logo img {
   max-height: 50px; /* Adjust the height of the logo as needed */
