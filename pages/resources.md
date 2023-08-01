@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
-category: resources
-permalink: /resources
+title: Astronomical Calendar
+category: calendar
+permalink: /calendar
 ---
