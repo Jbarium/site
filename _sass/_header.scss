@@ -72,6 +72,15 @@
   .site-title {
     padding-right: 0.25rem;
   }
+  .logo {
+    float: left; /* To position the logo on the top right */
+    margin: 20px;
+    position:sticky;
+  }
+  .logo img {
+    max-height: 50px; /* Adjust the height of the logo as needed */
+  }
+  
   .dropbtn {
     background-color: white;
     color: black;
