@@ -6,14 +6,16 @@
   box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
 }
-/* Add this to your CSS file or style block */
+
+
 .logo {
-  float: right;
+  float: right; /* To position the logo on the top right */
   margin: 20px;
 }
 .logo img {
   max-height: 50px; /* Adjust the height of the logo as needed */
 }
+
 
 
 @media (max-width: $container-width) {
@@ -29,13 +31,7 @@
 .site-header a {
   text-decoration: none;
 }
-.logo {
-  float: right;
-  margin: 20px;
-}
-.logo img {
-  max-height: 50px; /* Adjust the height of the logo as needed */
-}
+
 .site-title {
   font-size: 26px;
   font-weight: 400;
