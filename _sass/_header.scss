@@ -10,7 +10,7 @@
 .logo {
   float: right;
   margin: 20px;
-  position:sticky;
+  position:relative;
 }
 .logo img {
   max-height: 50px; /* Adjust the height of the logo as needed */
@@ -82,7 +82,6 @@
   .dropdown {
     position: relative;
     display: inline-block;
-    float: right; /* Align the dropdown to the right */
   }
 
   .dropdown-content {
