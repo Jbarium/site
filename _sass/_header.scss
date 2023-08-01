@@ -6,17 +6,14 @@
   box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
 }
-
-
+/* Add this to your CSS file or style block */
 .logo {
-  float: right; /* To position the logo on the top right */
-  margin: 20px;
-  position:sticky;
+  float: right;
+  margin: -60px;
 }
 .logo img {
   max-height: 50px; /* Adjust the height of the logo as needed */
 }
-
 
 
 @media (max-width: $container-width) {
@@ -32,7 +29,6 @@
 .site-header a {
   text-decoration: none;
 }
-
 .site-title {
   font-size: 26px;
   font-weight: 400;
@@ -72,15 +68,6 @@
   .site-title {
     padding-right: 0.25rem;
   }
-  .logo {
-    float: left; /* To position the logo on the top right */
-    margin: 20px;
-    position:sticky;
-  }
-  .logo img {
-    max-height: 50px; /* Adjust the height of the logo as needed */
-  }
-  
   .dropbtn {
     background-color: white;
     color: black;
@@ -94,6 +81,7 @@
   .dropdown {
     position: relative;
     display: inline-block;
+    float: right; /* Align the dropdown to the right */
   }
 
   .dropdown-content {
