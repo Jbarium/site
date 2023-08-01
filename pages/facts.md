@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: Transparency policy
 category: facts
 permalink: /facts
 ---
