@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: category
 title: Astronomical Calendar
+category: calendar
 permalink: /calendar
 ---
 
@@ -8,4 +9,8 @@ permalink: /calendar
 
 
 
-Hi my name is calendar!
+
+
+
+
+Astronomical Calendar

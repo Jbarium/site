@@ -1,6 +1,8 @@
 ---
-layout: category
+layout: page
 title: Transparency Policy
-category: transparency
 permalink: /transparency
 ---
+
+
+We will tell you how our organization is working!

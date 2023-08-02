@@ -9,9 +9,9 @@ google-ID: ''
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Astronomical Calendar', url: 'calendar'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Posts',       url: 'posts'}
 - {name: 'Transparency Policy',      url: 'transparency'}
-- {name: 'About',              url: 'about'}
+- {name: 'About us',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

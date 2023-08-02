@@ -5,6 +5,8 @@
   min-height: 56px;
   line-height: 45px;
   width: $container-width;
+  z-index: 60;
+
 }
 .footer a {
   color: $brand-color;
