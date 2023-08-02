@@ -1,10 +1,12 @@
 ---
-layout: category
+layout: page
 title: Sample Posts
-category: sample
 permalink: /posts
 ---
 
-This is a sample post
 
 ## what is a sample post?
+
+
+This is a sample post
+
