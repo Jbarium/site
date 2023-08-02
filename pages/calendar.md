@@ -1,7 +1,6 @@
 ---
-layout: category
+layout: page
 title: Astronomical Calendar
-category: calendar
 permalink: /calendar
 ---
 
