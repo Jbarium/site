@@ -1,4 +1,5 @@
 # Site Build Settings
+baseurl: "/site/fa"
 
 # jekyll-paginate configuration
 paginate:            5
