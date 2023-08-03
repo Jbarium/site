@@ -49,6 +49,8 @@
   @include social-media-icon($pinterest-color, $icon-transition-time);
 }
 
+
+
 .fa-medium {
   padding: 5px;
   @include social-media-icon($medium-color, $icon-transition-time);

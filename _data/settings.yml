@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'News',  url: 'news'}
+- {name: 'Articles',       url: 'articles'}
 - {name: 'Astronomical Calendar', url: 'calendar'}
-- {name: 'Posts',       url: 'posts'}
 - {name: 'Transparency Policy',      url: 'transparency'}
 - {name: 'About us',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}

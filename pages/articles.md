@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sample Posts
-permalink: /posts
+permalink: /articles
 ---
 
 
