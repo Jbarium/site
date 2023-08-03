@@ -1,5 +1,5 @@
 ---
-layout: Image of the week
+layout: post
 title: "Text Formatting"
 author: "SBU Astronomy Association"
 categories: image
@@ -12,4 +12,3 @@ image: cosmic-cloud.jpg
 
 
 
-Image of the week
