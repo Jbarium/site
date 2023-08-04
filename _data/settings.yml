@@ -7,11 +7,11 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'News',  url: 'news'}
-- {name: 'Articles',       url: 'articles'}
-- {name: 'Astronomical Calendar', url: 'calendar'}
-- {name: 'Transparency Policy',      url: 'transparency'}
-- {name: 'About us',              url: 'about'}
+- {name: 'News',  url: 'fa/news'}
+- {name: 'Articles',       url: 'fa/articles'}
+- {name: 'Astronomical Calendar', url: 'fa/calendar'}
+- {name: 'Transparency Policy',      url: 'fa/transparency'}
+- {name: 'About us',              url: 'fa/about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
